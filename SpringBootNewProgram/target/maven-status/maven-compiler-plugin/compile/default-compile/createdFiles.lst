@@ -1,0 +1,5 @@
+com\example\apigateway\Springservice.class
+com\example\apigateway\SpringController.class
+com\example\apigateway\SpringBootNewProgramApplication.class
+com\example\apigateway\SpringJpaRepo.class
+com\example\apigateway\Book.class
